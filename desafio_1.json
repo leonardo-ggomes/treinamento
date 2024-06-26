@@ -1,0 +1,101 @@
+{
+    "nome_restaurante": "Restaurante do Chef",
+    "endereco": "Rua da Silva, 123",
+    "cidade": "Presidente Prudente",
+    "estado": "SP",
+    "cep": "19025-000",
+    "telefone": "(18) 3333-3333",
+    "horario_funcionamento": "Terça a domingo, das 11h às 23h",
+    "categorias": [
+      {
+        "nome": "Entradas",
+        "pratos": [
+          {
+            "nome": "Salada Caprese",
+            "descricao": "Mozzarella de búfala, tomate fresco, manjericão e azeite extra virgem",
+            "preco": 25.00
+          },
+          {
+            "nome": "Carpaccio de salmão",
+            "descricao": "Salmão fresco laminado com alcaparras, limão siciliano e azeite extra virgem",
+            "preco": 32.00
+          },
+          {
+            "nome": "Bruschetta",
+            "descricao": "Pão italiano torrado com tomate fresco, manjericão e azeite extra virgem",
+            "preco": 18.00
+          }
+        ]
+      },
+      {
+        "nome": "Pratos principais",
+        "pratos": [
+          {
+            "nome": "Filé mignon com risoto de açafrão",
+            "descricao": "Filé mignon grelhado ao ponto com risoto de açafrão e parmesão",
+            "preco": 55.00
+          },
+          {
+            "nome": "Salmão ao molho de maracujá",
+            "descricao": "Salmão grelhado ao ponto com molho de maracujá e arroz selvagem",
+            "preco": 48.00
+          },
+          {
+            "nome": "Lasanha à bolonhesa",
+            "descricao": "Lasanha caseira com molho à bolonhesa e queijo mussarela",
+            "preco": 38.00
+          }
+        ]
+      },
+      {
+        "nome": "Sobremesas",
+        "pratos": [
+          {
+            "nome": "Tiramisu",
+            "descricao": "Tiramisu clássico italiano com café expresso, mascarpone e cacau em pó",
+            "preco": 20.00
+          },
+          {
+            "nome": "Mousse de chocolate",
+            "descricao": "Mousse de chocolate belga com calda de chocolate quente",
+            "preco": 18.00
+          },
+          {
+            "nome": "Panna cotta",
+            "descricao": "Panna cotta com calda de frutas vermelhas",
+            "preco": 22.00
+          }
+        ]
+      },
+      {
+        "nome": "Bebidas",
+        "pratos": [
+          {
+            "nome": "Vinho tinto",
+            "descricao": "Seleção de vinhos tintos nacionais e internacionais",
+            "preco": 30.00
+          },
+          {
+            "nome": "Vinho branco",
+            "descricao": "Seleção de vinhos brancos nacionais e internacionais",
+            "preco": 25.00
+          },
+          {
+            "nome": "Cerveja",
+            "descricao": "Cervejas artesanais e importadas",
+            "preco": 10.00
+          },
+          {
+            "nome": "Refrigerante",
+            "descricao": "Refrigerantes lata e garrafa",
+            "preco": 5.00
+          },
+          {
+            "nome": "Suco de fruta",
+            "descricao": "Suco de fruta natural",
+            "preco": 8.00
+          }
+        ]
+      }
+    ]
+  }

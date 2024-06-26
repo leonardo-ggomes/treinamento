@@ -1,0 +1,21 @@
+{
+    "seguradora":"SeguraAi",
+    "info":[
+        {
+            "cobertura":"Ferramentas",
+            "valor": 5000
+        },
+        {
+            "cobertura":"Máquinas",
+            "valor": 250000
+        },
+        {
+            "cobertura":"Insumos",
+            "valor": 500000
+        },
+        {
+            "cobertura":"Plantio",
+            "valor": 1350000
+        }
+    ]
+}

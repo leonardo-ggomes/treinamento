@@ -80,7 +80,7 @@ Desenvolver um aplicativo desktop utilizando C# e .NET, com integração a um ba
    - Elaborar diagramas UML para descrever a estrutura do sistema.
    - Documentar o código e as funcionalidades do sistema, incluindo instruções de uso.
 
-## Estrutura de Tabelas SQL
+## Estrutura de Tabelas SQL (APLICAR A NORMALIZAÇÃO)
 
 ```sql
 CREATE TABLE Cultivos (
